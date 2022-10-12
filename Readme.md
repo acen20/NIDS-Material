@@ -10,5 +10,8 @@ Steps:
 2. sudo systemctl restart libvirtd.service
 (Repeat these every time you need to start a machine)
 
+### VNC Viewer
+sudo apt install tigervnc-viewer
+
 ### Generate Network attacks
 https://www.activestate.com/blog/python-for-cybersecurity-testing/
