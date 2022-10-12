@@ -9,3 +9,6 @@ Steps:
 1. sudo chown root:{username} /dev/kvm
 2. sudo systemctl restart libvirtd.service
 (Repeat these every time you need to start a machine)
+
+### Generate Network attacks
+https://www.activestate.com/blog/python-for-cybersecurity-testing/
